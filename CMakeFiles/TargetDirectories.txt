@@ -1,0 +1,2 @@
+C:/Users/jinge/Documents/2022 Fall/6.8420/6.8420-CompDesignFab/CMakeFiles/ALL_BUILD.dir
+C:/Users/jinge/Documents/2022 Fall/6.8420/6.8420-CompDesignFab/assignment1/CMakeFiles/run1.dir
