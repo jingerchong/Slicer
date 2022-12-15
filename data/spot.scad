@@ -1,0 +1,1 @@
+rotate(a=[180.00,180.00,0]) { import("spot.stl", convexity=1); }

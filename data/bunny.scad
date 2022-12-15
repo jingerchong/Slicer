@@ -1,0 +1,1 @@
+rotate(a=[180.00,180.00,0]) { import("bunny.stl", convexity=1); }
